@@ -17,3 +17,24 @@
 
 
 * Then ideal weather cities are selected and using Geoapify API key, the the first hotel located within 10,000 metres of the coordinates are found. Then again a map visualization is created which shows the hotel name as well.
+
+# Output Data
+
+
+* The following figues are added into the output data folder
+
+
+    1) Latitude vs. Temperature
+    2) Latitude vs. Humidity
+    3) Latitude vs. Cloudiness
+    4) Latitude vs. Wind Speed
+    5) Northern Hemisphere: Temperature (C) vs. Latitude
+    6) Southern Hemisphere: Temperature (C) vs. Latitude
+    7) Northern Hemisphere: Humidity (%) vs. Latitude
+    8) Southern Hemisphere: Humidity (%) vs. Latitude
+    9) Northern Hemisphere: Cloudiness (%) vs. Latitude
+    10) Southern Hemisphere: Cloudiness (%) vs. Latitude
+    11) Northern Hemisphere: Wind Speed (m/s) vs. Latitude
+    12) Southern Hemisphere: Wind Speed (m/s) vs. Latitude
+    13) City Map Visualization
+    14) Hotel Map Visualization
